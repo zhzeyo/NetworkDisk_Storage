@@ -2,7 +2,7 @@
 # NetworkDisk_Storage
 ---
 ## 描述
-基于SpringBoot和SpringCloud的网盘系统，与百度网盘相似
+基于SpringBoot和SpringCloud的网盘系统，与百度网盘相似..
 ## 采用技术
 本项目采用的SpringBoot和SpringCloud为最新版本（SpringBoot2.0.2和SpringCloud Finchley.RC2）  
 数据加密采用JWT技术  
